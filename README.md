@@ -2,6 +2,10 @@
 
 Rust compiled to WebAssembly (`wasm-pack`) with a small Webpack dev server in `www/`.
 
+## Screenshot
+
+![wasm gravsim screenshot](pic.jpg)
+
 ## Prereqs
 
 - Rust toolchain (`rustup`, `cargo`)
