@@ -1,0 +1,26 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Local tooling/output
+/bin/
+/wasm-pack.log
+
+# wasm-pack output (generated)
+/pkg/
+
+# Node / Webpack (generated)
+/www/node_modules/
+/www/dist/
+/www/.git.bak/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editor junk
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
